@@ -1,0 +1,15 @@
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.csproj.AssemblyReference.cache
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.AssemblyInfoInputs.cache
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.AssemblyInfo.cs
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.csproj.CoreCompileInputs.cache
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\bin\Debug\net6.0\Task9.exe
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\bin\Debug\net6.0\Task9.deps.json
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\bin\Debug\net6.0\Task9.runtimeconfig.json
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\bin\Debug\net6.0\Task9.dll
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\bin\Debug\net6.0\Task9.pdb
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.dll
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\refint\Task9.dll
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.pdb
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\Task9.genruntimeconfig.cache
+C:\Users\mvideo\Desktop\GB\3.Знакомство с языками программирования\8 c# дополнение\Task9\obj\Debug\net6.0\ref\Task9.dll
